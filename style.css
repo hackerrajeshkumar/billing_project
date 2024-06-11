@@ -1,0 +1,72 @@
+body {
+    background-color: #f8f9fa;
+}
+
+.navbar {
+    margin-bottom: 20px;
+}
+
+.card {
+    border: none;
+    border-radius: 5px;
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+}
+
+.card-header {
+    border-bottom: none;
+}
+
+.card-title {
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.table-responsive {
+    overflow-x: auto;
+}
+
+.table th {
+    font-weight: bold;
+}
+
+.table td {
+    vertical-align: middle;
+}
+
+@media (max-width: 576px) {
+    .table {
+        font-size: 14px;
+    }
+}
+
+.invalid-feedback {
+    display: none;
+    color: red;
+    font-size: 14px;
+    margin-top: 5px;
+}
+
+.is-invalid {
+    border-color: red;
+}
+
+.is-invalid+.invalid-feedback {
+    display: block;
+}
+
+.filter-container {
+    margin-bottom: 20px;
+}
+
+.filter-container select,
+.filter-container input {
+    margin-right: 10px;
+}
+
+.due-payment {
+    color: red;
+}
+
+.paid-payment {
+    color: green;
+}

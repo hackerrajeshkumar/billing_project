@@ -1,0 +1,17 @@
+[
+    {
+        "username": "admin",
+        "password": "admin123",
+        "role": "admin"
+    },
+    {
+        "username": "billingmanager",
+        "password": "billing123",
+        "role": "billingmanager"
+    },
+    {
+        "username": "customer",
+        "password": "customer123",
+        "role": "customer"
+    }
+]

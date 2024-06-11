@@ -1,0 +1,43 @@
+[
+    {
+        "name": "Tamil",
+        "caid": "111",
+        "opDbm": "876",
+        "payments": [
+            {
+                "payDate": "2024-06-10",
+                "nextDueDate": "2024-07-10",
+                "price": "122"
+            },
+            {
+                "payDate": "2024-06-11",
+                "nextDueDate": "2024-06-12",
+                "price": "12121"
+            }
+        ]
+    },
+    {
+        "name": "Nxt lvl Solution",
+        "caid": "876",
+        "opDbm": "876",
+        "payments": [
+            {
+                "payDate": "2024-08-07",
+                "nextDueDate": "2024-09-07",
+                "price": "11"
+            }
+        ]
+    },
+    {
+        "name": "Kumar_mobiles",
+        "caid": "777",
+        "opDbm": "777",
+        "payments": [
+            {
+                "payDate": "2024-05-07",
+                "nextDueDate": "2024-06-07",
+                "price": "117"
+            }
+        ]
+    }
+]
